@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yolan26
+- 👀 I’m interested in machine learning, & data
+- 🌱 I’m currently learning machine learning, python language
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me , follow my Instagram @yolanjani / connect to my Linkedin: Yolan Anjani Usen
