@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yolan Anjani Usen
-- 👀 I’m interested in machine learning, & data
+- 👀 I’m interested in programming, AI, machine learning & data
 - 🌱 I’m currently learning machine learning, python language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a student majoring Information System from UKRIDA
 - 📫 How to reach me , follow my Instagram @yolanjani / connect to my Linkedin: Yolan Anjani Usen
